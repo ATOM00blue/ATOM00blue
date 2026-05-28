@@ -1,4 +1,4 @@
-## Hi, I'm ATOM00blue
+## Hi, I'm SAM
 
 Building toward ML systems, AI agents, and the infrastructure that scales them. Currently going deep on Rust and Go.
 
