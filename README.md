@@ -1,4 +1,4 @@
-## Hi, I'm SAM
+## Hi, I'm ADAM
 
 Building toward ML systems, AI agents, and the infrastructure that scales them. Currently going deep on Rust and Go.
 
