@@ -1,4 +1,4 @@
-## Hi, I'm SAM
+## Hi, I'm IRONBEEM -- TRYIMNG TO HARNESS SUN'S ENERGY TO BUILD USEFUL STUFF
 
 Building toward ML systems, AI agents, and the infrastructure that scales them. Currently going deep on Rust and Go.
 
