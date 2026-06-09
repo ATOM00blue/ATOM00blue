@@ -1,4 +1,4 @@
-## Hi, I'm IRONBEEM -- TRYIMNG TO HARNESS SUN'S ENERGY TO BUILD USEFUL STUFF
+## Hi, I'm IRONBEEM -- Harnessing the sun's power to build things that matter.
 
 Building toward ML systems, AI agents, and the infrastructure that scales them. Currently going deep on Rust and Go.
 
